@@ -17,7 +17,7 @@ This project requires Python 3.x to run.
 
 ### Installation
 
-1. Clone the repository or download the source code `git clone https://github.com/lscblack/DSA-HW02---Sparse-Matrix`.
+1. Clone the repository or download the source code `git clone https://github.com/Lenineng/DSA-HW02---Sparse-Matrix`.
 3. Navigate to the project directory `cd DSA-HW02---Sparse-Matrix`.
 
 ### Usage
@@ -48,4 +48,4 @@ This project requires Python 3.x to run.
 
 ## Author
 
-LScblack
+Lenineng 
